@@ -1,1 +1,3 @@
 # multiple_choice_question_and_answer_session
+
+huggingfaceの学習済みモデルを用いた多肢選択式応答モデルの開発。
